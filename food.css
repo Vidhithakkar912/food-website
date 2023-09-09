@@ -1,0 +1,16 @@
+.image{
+    background-image:url('food.jpeg');
+    height:30%;
+    weight:100%;
+    background-repeat:repeat-x;
+  
+}
+.register{
+    background-image:url('register.jpg');
+}
+.menu{
+    background-image:url('menu.jpg');
+}
+.back{
+    background-image:url('back.jpg');
+}
